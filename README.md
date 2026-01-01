@@ -5,9 +5,9 @@
 ![IntelXSS Logo](/assets/intelxss_logo.png)
 
 
-[![Live Demo](https://img.shields.io/badge/🌐_Domain-Bug_Hunting-00d4aa?style=for-the-badge)](https://xssnow.in)
+[![Live Demo](https://img.shields.io/badge/🌐_Domain-Bug_Hunting-00d4aa?style=for-the-badge)](https://cryptonicarea.wuaze.com/intelxss/)
 [![License: MIT](https://img.shields.io/badge/Devloped_By-Karndeep_Baror-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/Community-Cryptonic_Area-brightgreen.svg?style=for-the-badge)](https://whatsapp.com/channel/0029Vb6plDSBKfi3qGz2fq0f)
 
 `IntelXSS` is a community-driven, curated knowledge base of Cross-Site Scripting (XSS) payloads, designed to help security researchers, bug bounty hunters, and learners quickly find relevant, real-world payloads for different XSS scenarios.
 
