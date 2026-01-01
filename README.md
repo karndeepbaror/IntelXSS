@@ -96,7 +96,7 @@ Visit [cryptonicarea.wuaze.com/intelxss](https://cryptonicarea.wuaze.com/intelxs
 - **Share Knowledge** - Write tutorials and educational content
 - **Report Issues** - Help us maintain platform quality
 
-[**→ Read our Contributing Guidelines**](CONTRIBUTING.md)
+[**→ Read our Contributing**](CONTRIBUTING.md)
 
 ---
 
