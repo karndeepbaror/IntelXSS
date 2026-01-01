@@ -6,7 +6,7 @@
 
 **Share Your XSS Discoveries. Become a Recognized Contributor.**
 
-[![Get Listed As Contributor](https://img.shields.io/badge/🌐_Visit_Website-intelxss.in_(Click_Here)-00d4aa?style=for-the-badge)](https://karndeepbaror.github.io/intelxss)
+[![Get Listed As Contributor](https://img.shields.io/badge/🌐_Visit_Website-intelxss.in_(Click_Here)-00d4aa?style=for-the-badge)](cryptonicarea.wuaze.com/intelxss)
 
 </div>
 
@@ -15,7 +15,7 @@
 ## 🎯 **How to Add Your Payload**
 
 ### **Step 1: Fork the Repository**
-Fork the IntelXSS repository on GitHub to your account: [Fork Repository](https://github.com/karndeepbaror/intelxss/fork)
+Fork the IntelXSS repository on GitHub to your account: [Fork Repository](https://github.com/karndeepbaror/IntelXSS/fork)
 
 ### **Step 2: Add Your Payload**
 Edit `data/payloads.yaml` and add your XSS payload using YAML format (no escaping needed!):
@@ -116,6 +116,6 @@ Choose the most appropriate category for your payload:
 
 **Your expertise helps secure the web for everyone.**
 
-[![Fork & Contribute](https://img.shields.io/badge/Fork_&_Contribute-Now-00d4aa?style=for-the-badge)](https://github.com/karndeepbaror/intelxss/fork)
+[![Fork & Contribute](https://img.shields.io/badge/Fork_&_Contribute-Now-00d4aa?style=for-the-badge)](https://github.com/karndeepbaror/IntelXSS/fork)
 
 </div>
